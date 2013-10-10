@@ -1,4 +1,4 @@
 CLangueANDROID
 ==============
 
-CLangueANDROID is the application of clangue.
+CLangueANDROID is the application of clangue for android.
